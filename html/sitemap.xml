@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3000/sitemap_style.xsl" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:3000</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sites/suhteellinen-kosteus/suhteellinen-kosteus</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sites/vesihoyrypitoisuus/vesihoyrypitoisuus</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sites/kyllastysvesihoyrypitoisuuden-taulukot/kyllastysvesihoyrypitoisuuden-taulukot</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sites/hygroskooppisuus/hygroskooppisuus</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sites/si-jarjestelma/si-jarjestelma</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sites/mittausepavarmuus/mittausepavarmuus</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sites/todennakoisyys/todennakoisyyden-maaritelmia-ja-rakenteiden-arvioi</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sites/teknologian-kypsyysaste/teknologian-kypsyysaste</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sites/vaurioitumistodennakoisyys-montecarlo/vaurioitumistodennakoisyys-montecarlo</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sites/kymmenen-vitsia/kymmenen-vitsia-rakennusfysiikasta</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sites/tietoa-sivuista/tietoa-sivuista</loc>
+  </url>
+</urlset>
