@@ -1,1 +1,1 @@
-import{b as a}from"/docs/build/_shared/chunk-7SAO57PG.js";import"/docs/build/_shared/chunk-O4VQNZ62.js";import"/docs/build/_shared/chunk-OZE3FFNP.js";export{a as unified};
+import{b as a}from"https://github.com/kapillaarifi/jupyter_book/docs/build/_shared/chunk-7SAO57PG.js";import"https://github.com/kapillaarifi/jupyter_book/docs/build/_shared/chunk-O4VQNZ62.js";import"https://github.com/kapillaarifi/jupyter_book/docs/build/_shared/chunk-OZE3FFNP.js";export{a as unified};
