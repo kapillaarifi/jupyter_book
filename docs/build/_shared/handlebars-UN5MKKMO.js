@@ -1,1 +1,1 @@
-import{a}from"https://github.com/kapillaarifi/jupyter_book/docs/build/_shared/chunk-KOX2ZSDT.js";import"https://github.com/kapillaarifi/jupyter_book/docs/build/_shared/chunk-J3PKFMLQ.js";import"https://github.com/kapillaarifi/jupyter_book/docs/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"https://kapillaarifi.github.io/jupyter_book/build/_shared/chunk-KOX2ZSDT.js";import"https://kapillaarifi.github.io/jupyter_book/build/_shared/chunk-J3PKFMLQ.js";import"https://kapillaarifi.github.io/jupyter_book/build/_shared/chunk-OZE3FFNP.js";export default a();
