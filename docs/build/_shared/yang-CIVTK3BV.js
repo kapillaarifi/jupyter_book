@@ -1,1 +1,1 @@
-import{a}from"/jupyter_book/build/_shared/chunk-ZKQ5YAGX.js";import"/jupyter_book/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/docs/build/_shared/chunk-ZKQ5YAGX.js";import"/docs/build/_shared/chunk-OZE3FFNP.js";export default a();

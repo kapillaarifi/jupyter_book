@@ -1,1 +1,1 @@
-import{a}from"/jupyter_book/build/_shared/chunk-5BDQQ53J.js";import"/jupyter_book/build/_shared/chunk-C2LAERNE.js";import"/jupyter_book/build/_shared/chunk-SWM73M5L.js";import"/jupyter_book/build/_shared/chunk-TEESLJ7F.js";import"/jupyter_book/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/docs/build/_shared/chunk-5BDQQ53J.js";import"/docs/build/_shared/chunk-C2LAERNE.js";import"/docs/build/_shared/chunk-SWM73M5L.js";import"/docs/build/_shared/chunk-TEESLJ7F.js";import"/docs/build/_shared/chunk-OZE3FFNP.js";export default a();
