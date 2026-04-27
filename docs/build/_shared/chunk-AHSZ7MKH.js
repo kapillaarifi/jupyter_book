@@ -1,4 +1,4 @@
-import{b as e}from"https://www.kapillaari.fi/build/_shared/chunk-7DW7L33J.js";var l=e(()=>`
+import{b as e}from"https://kapillaarifi.github.io/jupyter_book/build/_shared/chunk-7DW7L33J.js";var l=e(()=>`
   /* Font Awesome icon styling - consolidated */
   .label-icon {
     display: inline-block;

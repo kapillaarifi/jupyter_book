@@ -1,1 +1,1 @@
-import{a}from"https://www.kapillaari.fi/build/_shared/chunk-DI6AYDOT.js";import"https://www.kapillaari.fi/build/_shared/chunk-37MEAX4M.js";import"https://www.kapillaari.fi/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"https://kapillaarifi.github.io/jupyter_book/build/_shared/chunk-DI6AYDOT.js";import"https://kapillaarifi.github.io/jupyter_book/build/_shared/chunk-37MEAX4M.js";import"https://kapillaarifi.github.io/jupyter_book/build/_shared/chunk-OZE3FFNP.js";export default a();
