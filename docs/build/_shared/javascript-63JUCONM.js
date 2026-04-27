@@ -1,1 +1,0 @@
-import{a,b,c,d,e}from"https://kapillaarifi.github.io/jupyter_book/build/_shared/chunk-265RPIE7.js";import"https://kapillaarifi.github.io/jupyter_book/build/_shared/chunk-OZE3FFNP.js";e();export{a as javascript,b as json,c as jsonld,d as typescript};
